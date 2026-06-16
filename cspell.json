@@ -1,0 +1,3 @@
+{
+  "ignoreRegExpList": ["/[\\u0621-\\u064A]+/g"]
+}

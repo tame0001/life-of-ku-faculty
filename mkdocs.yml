@@ -1,3 +1,5 @@
 site_name: Life of a KU Faculty
 theme:
   name: material
+  features:
+    - navigation.instant
