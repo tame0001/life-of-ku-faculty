@@ -3,3 +3,10 @@ theme:
   name: material
   features:
     - navigation.instant
+  icon:
+    admonition:
+      quote: fontawesome/solid/quote-left
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
