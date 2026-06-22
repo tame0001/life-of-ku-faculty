@@ -24,7 +24,9 @@ By virtue of the provisions of Section 22 (2) of the Kasetsart University Act, B
 
 - 3.1 Kasetsart University Council Announcement on Minimum Workload Standards as a Lecturer in Kasetsart University, B.E. 2558 (2015).
 - 3.2 Kasetsart University Council Announcement on Kasetsart University Regulations on Academic Workload of Lecturers, Assistant Professors, Associate Professors, and Professors, B.E. 2558 (2015).
-- **ข้อ ๓** ให้ยกเลิก
+
+**ข้อ ๓** ให้ยกเลิก
+
 - ๓.๑ ประกาศสภามหาวิทยาลัยเกษตรศาสตร์ เรื่อง มาตรฐานภาระงานขั้นต่ำในฐานะอาจารย์ผู้สอนในมหาวิทยาลัยเกษตรศาสตร์ พ.ศ. ๒๕๕๘
 - ๓.๒ ประกาศสภามหาวิทยาลัยเกษตรศาสตร์ เรื่อง ข้อบังคับมหาวิทยาลัยเกษตรศาสตร์ ว่าด้วยมาตรฐานภาระงานทางวิชาการ ของผู้ดำรงตำแหน่งอาจารย์ ผู้ช่วยศาสตราจารย์ รองศาสตราจารย์ และศาสตราจารย์ พ.ศ. ๒๕๕๘
 
@@ -37,7 +39,9 @@ By virtue of the provisions of Section 22 (2) of the Kasetsart University Act, B
 - "University Employee" means a university employee and a revenue-funded university employee affiliated with Kasetsart University.
 - "Head of Division" means a Dean, Director of an Institute, Director of an Office, or other heads of division of equivalent status to a faculty.
 - "Executive Position" means the position of President, Vice President, Assistant President, Dean, Director of an Institute, Director of an Office, or other heads of division of equivalent status to a faculty, and deputies or assistants to such positions; Head of Department or heads of units of equivalent status to a department, and deputies to such positions; and shall include Managing Director, Deputy Managing Director, Manager, Director, Board Director, and positions equivalent to such positions in joint venture companies in which Kasetsart University is a shareholder, and affiliated companies.
-- **ข้อ ๔** ในข้อบังคับนี้
+
+**ข้อ ๔** ในข้อบังคับนี้
+
 - “สภามหาวิทยาลัย” หมายความว่า สภามหาวิทยาลัยเกษตรศาสตร์
 - “มหาวิทยาลัย” หมายความว่า มหาวิทยาลัยเกษตรศาสตร์
 - “อธิการบดี” หมายความว่า อธิการบดีมหาวิทยาลัยเกษตรศาสตร์
@@ -102,6 +106,22 @@ The calculation of hours to be converted into workload units shall comply with t
 
 **ข้อ ๙** ข้าราชการและพนักงานมหาวิทยาลัยซึ่งดำรงตำแหน่งผู้ช่วยศาสตราจารย์ รองศาสตราจารย์ และศาสตราจารย์ ต้องมีภาระงานทางวิชาการ ดังต่อไปนี้
 
+| Academic Work Category (Choose one per year) | Assistant Professor |      Associate Professor       |       Professor       |
+| :------------------------------------------- | :-----------------: | :----------------------------: | :-------------------: |
+| **(a) Academic Article**                     |      1 article      |           2 articles           |      3 articles       |
+| **(b) Textbook or Book**                     |       1 book        |             1 book             |        1 book         |
+| **(c) Research Study**                       |       1 study       | 2 studies (1 if international) | 1 international study |
+| **(d) Other Equivalent Work**                |       1 work        |            2 works             |        2 works        |
+| **(e) Socially Engaged Work**                |       1 work        |             1 work             |        2 works        |
+
+| ประเภทผลงานวิชาการ (เลือกปฏิบัติ 1 รายการต่อปี) | ผู้ช่วยศาสตราจารย์ |                รองศาสตราจารย์                 |       ศาสตราจารย์        |
+| :---------------------------------------------- | :----------------: | :-------------------------------------------: | :----------------------: |
+| **(ก) บทความทางวิชาการ**                        |      1 รายการ      |                   2 รายการ                    |         3 รายการ         |
+| **(ข) ตำราหรือหนังสือ**                         |      1 รายการ      |                   1 รายการ                    |         1 รายการ         |
+| **(ค) งานวิจัย**                                |      1 รายการ      | 2 รายการ (เหลือ 1 รายการหากเป็นระดับนานาชาติ) | 1 รายการ (ระดับนานาชาติ) |
+| **(ง) ผลงานวิชาการลักษณะอื่นที่เทียบเท่า**      |      1 รายการ      |                   2 รายการ                    |         2 รายการ         |
+| **(จ) ผลงานวิชาการรับใช้สังคม**                 |      1 รายการ      |                   1 รายการ                    |         2 รายการ         |
+
 **9.1 Assistant Professor**
 
 - (a) 1 academic article published per year in accordance with the criteria specified by the University Council, or
@@ -141,8 +161,9 @@ The calculation of hours to be converted into workload units shall comply with t
 - (c) 1 research study published internationally per year in accordance with the criteria specified by the University Council, or
 - (d) 2 other forms of academic work equivalent to research under (c) per year, or
 - (e) 2 socially engaged academic works per year.
- 
+
 **๙.๓ ศาสตราจารย์**
+
 - (ก) บทความทางวิชาการที่ได้รับการเผยแพร่ตามหลักเกณฑ์ที่สภามหาวิทยาลัยกำหนด ปีละ ๓ รายการ หรือ
 - (ข) ตำราหรือหนังสือที่ได้รับการเผยแพร่ตามหลักเกณฑ์ที่สภามหาวิทยาลัยกำหนด ปีละ ๑ รายการ หรือ
 - (ค) งานวิจัยที่ได้รับการเผยแพร่ในระดับนานาชาติตามหลักเกณฑ์ที่สภามหาวิทยาลัยกำหนด ปีละ ๑ รายการ หรือ
